@@ -1,0 +1,12 @@
+@import "./main";
+@import "./header";
+@import "./mixins";
+// estilos 
+* {
+    @include format-document;
+}
+
+body {
+    background: url(./img/Picture1-768x506.png) no-repeat;
+    background-size: cover;
+}

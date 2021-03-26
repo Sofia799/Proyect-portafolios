@@ -1,0 +1,20 @@
+@import "./mixins";
+//estilos header
+.items-menu {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.items {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.enlace-menu {
+    @include button;
+}
+
+.enlace-menu:hover {
+    background-color: rgb(223, 223, 179);
+    box-shadow: 0 0 10px violet;
+}

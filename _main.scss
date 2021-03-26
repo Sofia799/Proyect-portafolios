@@ -1,0 +1,75 @@
+.informacion-de-datos h2,
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Playfair Display', sans-serif;
+    letter-spacing: 4px;
+    font-weight: lighter;
+}
+
+.informacion-de-datos {
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 4%;
+    background: rgba(87, 87, 87, 0.4);
+    border-radius: 15px;
+}
+
+.image {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.informacion-sobre-mi {
+    width: 500px;
+    background: rgba(255, 255, 255, 0.4);
+    margin: 0 auto;
+    margin-top: 2%;
+    padding: 20px;
+    font-family: 'Playfair Display', sans-serif;
+    border-radius: 15px;
+}
+
+.informacion-sobre-mi p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.informacion-de-datos h2 {
+    font-size: 45px;
+}
+
+.tecnologias-adquiridas {
+    margin-top: 20px;
+}
+
+.tec-lenguajes {
+    font-size: 30px;
+}
+
+li {
+    text-align: center;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+.proyects-images img {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.proyect-image1 {
+    text-align: left;
+}
+
+.proyect-image2 {
+    text-align: right;
+}
